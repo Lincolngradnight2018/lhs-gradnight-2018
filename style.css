@@ -9,7 +9,7 @@ body {
 
 .billboard {
     background-image: url("img/grad.jpg");
-    background-size: 100% auto;
+    background-size: cover;
     height: 200px;
 }
 
